@@ -6,7 +6,7 @@
 [IIFE](https://plnkr.co/edit/KJV7ES)  
 ["this" keyword](https://plnkr.co/edit/eTqlN0)  
 [Singleton Pattern](https://plnkr.co/edit/jdrKYk)  
-[RegEx](https://plnkr.co/edit/cLpkDWUxHnFK94gYLTin)
+[RegEx](https://plnkr.co/edit/cLpkDWUxHnFK94gYLTin)  
 [ES6 Iterators](https://plnkr.co/edit/WX3dlCRkccgERmRHDyfw?p=catalogue)
 
 ## Angular
